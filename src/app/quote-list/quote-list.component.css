@@ -1,0 +1,47 @@
+.quote {
+    border: 2px solid black;
+    margin: 0 20px 10px;
+}
+.text {
+    width: 50%;
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 5px;
+}
+
+.votes {
+    width: 19%;
+    box-sizing: border-box;
+    display: inline-block;
+    font-size: xx-large;
+    text-align: center;
+    vertical-align: super;
+}
+
+.buttons {
+    width: 30%;
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 5px 0;
+    margin: 2px 0;
+}
+
+.green {
+    background-color: rgba(0, 128, 0, 0.39);
+    color: black;
+}
+
+.red {
+    background-color: rgba(255, 78, 65, 0.72);
+    color: black;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}

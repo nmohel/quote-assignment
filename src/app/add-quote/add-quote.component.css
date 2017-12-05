@@ -1,0 +1,20 @@
+.errors {
+    color: red;
+}
+form {
+    margin: 0 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+.validations {
+    display: inline-block;
+    vertical-align: top;
+}
+.formSection {
+    text-align: right;
+    margin-bottom: 5px;
+}
+
+textarea, input {
+    border: 2px solid black;
+}

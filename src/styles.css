@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+button {
+    border-radius: 0;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px #797979;
+}
+
+button:disabled {
+    border-color: gray;
+    color: gray;
+    box-shadow: none;
+}
