@@ -6,7 +6,8 @@
     width: 50%;
     box-sizing: border-box;
     display: inline-block;
-    padding: 5px;
+    padding: 10px;
+    vertical-align: top;
 }
 
 .votes {
